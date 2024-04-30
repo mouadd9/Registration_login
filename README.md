@@ -1,1 +1,6 @@
-# projet_web_educationel
+- `index.php` : Page de connexion où les utilisateurs peuvent se connecter.
+- `register.php` : Page d'inscription pour créer un nouveau compte utilisateur.
+- `login.php` : Script de traitement de la connexion.
+- `success.php` : Page affichant un message de succès après une connexion réussie.
+- `Database.php` : Classe gérant les connexions à la base de données et les requêtes.
+- `User.php` : Classe représentant l'entité utilisateur.
